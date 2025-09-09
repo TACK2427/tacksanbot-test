@@ -77,7 +77,7 @@ typeはFreeにしてください
 
 そしたら以下のコードをコピペしてください
 
-\https://のところは画像と同じところにある●●.onrender.comに置き換えてください
+https:// のところは画像と同じところにある●●.onrender.comに置き換えてください
 ![alt text](./image/1/image3.png)
 
 ```js
